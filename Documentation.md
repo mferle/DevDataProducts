@@ -31,12 +31,4 @@ Here is a sample screenshot from the application with defalut values:
 
 After pressing the Submit button, the result is calculated, displaying the predicted 21 kilometer race finish time based on the input data.
 
-
-```r
-x <- rnorm(100)
-hist(x)
-```
-
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
-
 Some formatting is also added so that the result is displayed in a more clear format by converting the total number of minutes into hours and minutes.
